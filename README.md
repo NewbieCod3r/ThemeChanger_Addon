@@ -13,11 +13,6 @@
 - ✅ Guarda las preferencias del usuario y se aplican automáticamente al cargar páginas.
 - ✅ Compatible con navegadores Chromium: Chrome, Opera GX, Edge.
 
----
-
-## **Capturas de pantalla**
-
-*(Aquí podés agregar imágenes de tu extensión funcionando, ejemplo antes/después de activar el modo oscuro/AMOLED)*
 
 ---
 
