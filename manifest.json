@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Modo de color avanzado",
+    "version": "1.0",
+    "description": "Permite forzar AMOLED, modo oscuro o color personalizado en cualquier página",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+      }
+    ,
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
